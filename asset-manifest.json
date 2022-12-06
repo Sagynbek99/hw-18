@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hw-18/static/css/main.c74c2eb8.css",
+    "main.js": "/hw-18/static/js/main.faecea9a.js",
+    "static/media/loader.png": "/hw-18/static/media/loader.57731aee784524538a13.png",
+    "index.html": "/hw-18/index.html",
+    "main.c74c2eb8.css.map": "/hw-18/static/css/main.c74c2eb8.css.map",
+    "main.faecea9a.js.map": "/hw-18/static/js/main.faecea9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74c2eb8.css",
+    "static/js/main.faecea9a.js"
+  ]
+}
